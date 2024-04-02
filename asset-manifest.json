@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/arwaragab-task-meetus-vr-.git/static/css/main.b491ab9f.css",
+    "main.js": "/arwaragab-task-meetus-vr-.git/static/js/main.3feedd68.js",
+    "static/js/510.05ba20a2.chunk.js": "/arwaragab-task-meetus-vr-.git/static/js/510.05ba20a2.chunk.js",
+    "static/js/453.ed3810f9.chunk.js": "/arwaragab-task-meetus-vr-.git/static/js/453.ed3810f9.chunk.js",
+    "static/media/t1-1.png": "/arwaragab-task-meetus-vr-.git/static/media/t1-1.abafe3d9e81609be6794.png",
+    "static/media/t1-3.png": "/arwaragab-task-meetus-vr-.git/static/media/t1-3.b9f452898bf0a9295b9f.png",
+    "static/media/color1.jpg": "/arwaragab-task-meetus-vr-.git/static/media/color1.65232df0f813055cb1af.jpg",
+    "static/media/t1-2.png": "/arwaragab-task-meetus-vr-.git/static/media/t1-2.e167e4a0c8a66646e8c4.png",
+    "static/media/t2-1.jpg": "/arwaragab-task-meetus-vr-.git/static/media/t2-1.28271a65623586b6eb55.jpg",
+    "static/media/t3-2.jpg": "/arwaragab-task-meetus-vr-.git/static/media/t3-2.fe8ee9f6e3266e0ec480.jpg",
+    "static/media/t3-1.jpg": "/arwaragab-task-meetus-vr-.git/static/media/t3-1.ad02b6f1196af32e4dd2.jpg",
+    "static/media/t3-3.jpg": "/arwaragab-task-meetus-vr-.git/static/media/t3-3.ad02b6f1196af32e4dd2.jpg",
+    "static/media/t4-3.jpg": "/arwaragab-task-meetus-vr-.git/static/media/t4-3.a143d2cd3a2fd9d086a8.jpg",
+    "static/media/t4-2.jpg": "/arwaragab-task-meetus-vr-.git/static/media/t4-2.55d5d498626771f66951.jpg",
+    "static/media/t4-1.jpg": "/arwaragab-task-meetus-vr-.git/static/media/t4-1.c8dbe24c33094ff27a25.jpg",
+    "static/media/t2-2.jpg": "/arwaragab-task-meetus-vr-.git/static/media/t2-2.a1fc87bcea5febee1846.jpg",
+    "static/media/t2-3.jpg": "/arwaragab-task-meetus-vr-.git/static/media/t2-3.e66f0c45f1e83ecb5f7d.jpg",
+    "static/media/brand1.png": "/arwaragab-task-meetus-vr-.git/static/media/brand1.e33eea83dd5ac3dca379.png",
+    "static/media/foorer.svg": "/arwaragab-task-meetus-vr-.git/static/media/foorer.cd01cf193d6315d151c4.svg",
+    "static/media/brand2.svg": "/arwaragab-task-meetus-vr-.git/static/media/brand2.ebdf7e4654c86bee8c8a.svg",
+    "index.html": "/arwaragab-task-meetus-vr-.git/index.html",
+    "main.b491ab9f.css.map": "/arwaragab-task-meetus-vr-.git/static/css/main.b491ab9f.css.map",
+    "main.3feedd68.js.map": "/arwaragab-task-meetus-vr-.git/static/js/main.3feedd68.js.map",
+    "510.05ba20a2.chunk.js.map": "/arwaragab-task-meetus-vr-.git/static/js/510.05ba20a2.chunk.js.map",
+    "453.ed3810f9.chunk.js.map": "/arwaragab-task-meetus-vr-.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b491ab9f.css",
+    "static/js/main.3feedd68.js"
+  ]
+}
